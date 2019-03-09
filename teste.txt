@@ -1,0 +1,4 @@
+node8 usar com npm
+typeScript C
+====== tranforma nosso codigo em javaScript angular é typeScript 
+parece com javaScript, é um java script tipada
