@@ -1,0 +1,14 @@
+<p>
+  Selecione sua cor preferida!
+</p>
+
+<p>
+    Cor Selecionanda {{n}}
+  </p>
+  <!--<p *ngFor="let x of xs">
+    {{n}} vezes {{x}} é igual a {{n*x}} 
+  </p>-->
+  
+    <button *ngFor="let i of xs" (click)="op(i)">{{i}}</button>
+
+    <p>Obrigado por nos escolher</p>
